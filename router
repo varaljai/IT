@@ -13,6 +13,9 @@ Az ACL-ek a következő feladatokat látják el:
 tcőp kapcsolat orientált udp kapcsolat nélüli 
 ip access
 
-
+access-list 10 permit 192.168.30.0 0.0.0.255
+access-list 10 permit host 192.168.30.0 
+access-list 10 permit any 
+ip access group 12
 
 
