@@ -1,0 +1,18 @@
+designited router:
+router id 
+loopback ip cim legmagassabb
+legmagassabb actív ip cím.
+interface ospf priority 0-255 (gyári beállítás 1)
+
+
+Az IP ACL műlödése
+alow or deny 
+Az ACL-ek a következő feladatokat látják el:
+21 port szám szolgáltatás elérés
+
+tcőp kapcsolat orientált udp kapcsolat nélüli 
+ip access
+
+
+
+
